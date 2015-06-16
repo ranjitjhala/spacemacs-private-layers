@@ -41,7 +41,7 @@
 
 See URL `https://github.com/ucsd-pl/RefScript'."
   :command
-  ("rsc" source-inplace)
+  ("rsc" "-r" source-inplace)
   :error-patterns
   (
    (error line-start (file-name) ":" line ":" column ":"

@@ -15,7 +15,7 @@
 (defvar refscript-types-packages
   '(
     flycheck
-    typeooodfsdfscript-mode
+    typescript-mode
     button-lock
     pos-tip
     popup
